@@ -35,7 +35,7 @@ public class PalindromeChecker {
 
 
 
-//Palindrome checker using char array, discontinued because I have found a simpler way of iterating through the string
+//Palindrome checker using char array, discontinued because I have thought of a simpler way of iterating through the string
 
 /*
 	static boolean isPalindrome(String str) {
